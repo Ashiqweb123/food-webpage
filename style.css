@@ -1,4 +1,35 @@
 body {
     margin: 0 auto;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.Aj {
+    color: green;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(green, black);
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+section {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.banner-content {
+    width: 50%;
+    margin: 5%;
+}
+
+.banner-content img {
+    width: 70%;
 }
