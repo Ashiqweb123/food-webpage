@@ -25,11 +25,16 @@ section {
     margin-bottom: 100px;
 }
 
-.banner-content {
+.halfWidth {
     width: 50%;
     margin: 5%;
 }
 
-.banner-content img {
+.halfWidth img {
     width: 70%;
+}
+
+#About-food {
+    background-image: url(./images/background.jpg);
+    background-repeat: no-repeat;
 }
