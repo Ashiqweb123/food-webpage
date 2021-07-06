@@ -39,6 +39,11 @@ section {
     background-repeat: no-repeat;
 }
 
+#recipie .recipie-text h2,
+p {
+    text-align: center;
+}
+
 footer {
     background-color: black;
     padding: 30px 50px;
